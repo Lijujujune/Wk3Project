@@ -1,18 +1,23 @@
-#Week3 Challenge
+Week3 Challenge
 
-##Description
+Description
+
 As a payroll manager, I want to use this webpage as an employees' payroll tracker to do my budget.
 
-##Installation
+Installation
+
 N/A
 
-##Usage
+Usage
+
 This payroll tracker can be used to store employees' payroll data.
 Caculate average salary of the employees.
 Also randomly draw a lucky employee. 
 
-##Credits
+Credits
+
 N/A
 
-##License
+License
+
 Please refer to the LICENSE in the repo.
